@@ -1,0 +1,4 @@
+We are hiring a Business Analyst to join our demand forecasting team.
+Responsibilities include analyzing transaction data, building dashboards,
+and working with data science teams on churn prediction. Requires SQL,
+Excel, and basic Python. 1-2 years experience preferred.
