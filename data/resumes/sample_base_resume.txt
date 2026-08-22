@@ -1,0 +1,9 @@
+- Completed a data analysis project using Python and SQL to explore
+  sample transaction datasets and summarize findings.
+- Built dashboards in Excel to visualize survey and sales data for a
+  college coursework project.
+- Interned as a data reporting assistant, compiling weekly reports for
+  internal stakeholders.
+- Built a machine learning project using PyTorch for text sentiment
+  classification.
+- Familiar with Git, basic command-line tools, and REST APIs.
